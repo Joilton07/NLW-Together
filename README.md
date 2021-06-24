@@ -1,9 +1,9 @@
 # NLW-Together
-## Aula 03 – In Orbit
+## Aula 04 – Landing
 
-Estamos em órbita, explorando um universo infinito, repleto de novos conhecimentos.
+É hora de pousar em um novo planeta.
 
-Código do Desafio: #embuscadeevolução
+Código do Desafio: #legacy
 
 ### NLW Valoriza
 
@@ -23,7 +23,7 @@ Código do Desafio: #embuscadeevolução
         [ X ] Não é permitido o cadastro por usuário que não sejam administradores
     - Cadastro de elogios
 
-        [ ] Não é permitido um usuário cadastrar um elogio para si
+        [ X ] Não é permitido um usuário cadastrar um elogio para si
 
         [ ] Não é permitido Cadastrar elogios para usuários inválidos
 
