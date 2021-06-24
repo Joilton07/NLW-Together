@@ -1,9 +1,9 @@
 # NLW-Together
-## Aula 02 – Liftoff
+## Aula 03 – In Orbit
 
-A decolagem foi um sucesso e agora é hora de avançar com velocidade máxima rumo ao nosso objetivo.
+Estamos em órbita, explorando um universo infinito, repleto de novos conhecimentos.
 
-Código do Desafio: #unidade
+Código do Desafio: #embuscadeevolução
 
 ### NLW Valoriza
 
@@ -16,11 +16,11 @@ Código do Desafio: #unidade
         [ X ] Não é permitido cadatrar usuário sem e-mail
     - Cadastro de TAG
         
-        [ ] Não é permitido cadastrar mais de uma tag com mesmo nome
+        [ X ] Não é permitido cadastrar mais de uma tag com mesmo nome
         
-        [ ] Não é permitido cadastrar tag sem nome
+        [ X ] Não é permitido cadastrar tag sem nome
         
-        [ ] Não é permitido o cadastro por usuário que não sejam administradores
+        [ X ] Não é permitido o cadastro por usuário que não sejam administradores
     - Cadastro de elogios
 
         [ ] Não é permitido um usuário cadastrar um elogio para si
