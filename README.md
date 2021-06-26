@@ -30,3 +30,8 @@ Código do Desafio: #legacy
         [ X ] Não é permitido Cadastrar elogios para usuários inválidos
 
         [ X ] O usuário precisa estar autenticado na aplicação
+        
+    - Extra
+        [] Criar um serviço e-mail para enviar notificição referente ao envio de um elogio
+        [] Subir para produção
+        [] Customizar os erros
